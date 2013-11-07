@@ -1,0 +1,6 @@
+manifest.mf
+build/
+nbproject/
+test/
+test.bmp
+build.xml
